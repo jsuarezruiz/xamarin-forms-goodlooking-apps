@@ -37,11 +37,7 @@ Features:
 - No Ads
 - No login / registration
 
-<img src="images/cuterdio01.png" Width="220" />
-<img src="images/cuterdio02.png" Width="220" />
-<img src="images/cuterdio03.png" Width="220" /> 
-<img src="images/cuterdio04.png" Width="220" />  
-<img src="images/cuterdio05.png" Width="440" /> 
+<img src="images/cuterdio01.png" Width="220" /> <img src="images/cuterdio02.png" Width="220" /> <img src="images/cuterdio03.png" Width="220" /> <img src="images/cuterdio04.png" Width="220" />  <br> <img src="images/cuterdio05.png" Width="440" /> 
 
 
 ### Platforms
