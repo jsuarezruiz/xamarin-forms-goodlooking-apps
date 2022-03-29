@@ -4,6 +4,20 @@ A curated list of awesome **goodlooking UI** published apps made with Xamarin.Fo
 
 *Work in progress*. Contributions are always welcome!
 
+## [Vocably](https://vocably-game.com)
+
+Enrich your vocabulary by playing this fun game. Vocably allows you to play multiple words in a day. Learn the meanings of new words, show off your progress to your friends, and compete against others in the world anonymously.
+
+<img src="images/vocably.png" Width="200" />
+
+### Platforms
+
+Android, iOS.
+
+### More information:
+- [Google Play](https://play.google.com/store/apps/details?id=com.xgeno.wordly)
+- [App Store](https://apps.apple.com/us/app/vocably/id1605208532)
+- 
 ## Series Watchlist
 
 Your gateway to the world of thousands of TV shows. Keep updated with latest, upcoming and trending series, search for TV shows, watch trailers, keep track of the shows you want to watch.
